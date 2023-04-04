@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "950202336834",
+    "project_id": "golu-chat-33910",
+    "storage_bucket": "golu-chat-33910.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950202336834:android:1f924f54a893bbb4340fdb",
+        "android_client_info": {
+          "package_name": "com.parulgupta.chat_off"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950202336834-85m94ssvkmmfjnji8kon3hlfuj0js4qm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABq5jXXWb6rTp5U-nwP3qt8weIzq3m1JQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950202336834-85m94ssvkmmfjnji8kon3hlfuj0js4qm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

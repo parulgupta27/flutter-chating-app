@@ -1,0 +1,25 @@
+name: chat_off
+description: A new Flutter application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.6 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^1.21.0
+  firebase_auth: ^3.6.4
+  cloud_firestore: ^3.4.5
+  cupertino_icons: ^0.1.2
+  modal_progress_hud_nsn: ^0.3.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+  - images/
